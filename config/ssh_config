@@ -1,0 +1,19 @@
+Host etaerion
+    Hostname etaerion-master
+    User kimbsy
+
+Host node1
+    Hostname etaerion-node1
+    User pi
+
+Host node2
+    Hostname etaerion-node2
+    User pi
+
+Host node3
+    Hostname etaerion-node3
+    User pi
+
+Host node4
+    Hostname etaerion-node4
+    User pi
